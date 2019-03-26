@@ -1,0 +1,13 @@
+entities\Entreprise.class
+entities\Contrat.class
+entities\Role.class
+entities\Departement.class
+entities\Mission.class
+service\impl\EntrepriseServiceImpl.class
+service\interf\TimesheetServiceRemote.class
+entities\MissionExterne.class
+entities\Timesheet.class
+service\interf\EntrepriseServiceRemote.class
+entities\Employe.class
+service\interf\EmployeServiceRemote.class
+entities\TimesheetPK.class
